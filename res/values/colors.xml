@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="gray">#757577</color>
+    <color name="gray2">#ddd</color>
+    <color name="drop_down_selected">#7B1FA2</color>
+    <color name="drop_down_unselected">#111111</color>
+    <color name="mask_color">#00888888</color>
+    <color name="check_bg">#f2f2f2</color>
+    <color name="un_press_color">#9C27B0</color>
+    <color name="red">#F08080</color>
+    <color name="green">#98FB98</color>
+    <color name="yellow">#ed8000</color>
+    <color name="yellow2">#FFC125</color>
+    <color name="green_dark">#00B96D</color>
+    <color name="green2">#4EEE94</color>
+    <color name="blue">#63B8FF</color>
+    <color name="blue2">#363940</color>
+    <color name="black">#000</color>
+	<color name="transparent">#00000000</color>
+	<color name="textcolor_gray">#ff666666</color>
+	<color name="textcolor_blue">#ff1E90FF</color>
+	<color name="bottomtab_normal">#ddd</color>
+    <color name="bottomtab_press">#ffffff</color>
+    <color name="textcolor_lightblack">#ff444444</color>
+    <color name="main_color1">#1e6bbd</color>
+</resources>
